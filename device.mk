@@ -22,8 +22,12 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_PROPERTY_OVERRIDES += \
 	telephony.lteOnGsmDevice=1 \
-	ro.telephony.default_network=10
+	ro.telephony.default_network=9
 
 PRODUCT_COPY_FILES += \
 	frameworks/native/data/etc/android.hardware.telephony.gsm.xml:system/etc/permissions/android.hardware.telephony.gsm.xml
 
+# NFC packages
+PRODUCT_PACKAGES += \
+    nfc_nci.g2 \
+    NfcNci
