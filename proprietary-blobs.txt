@@ -31,7 +31,6 @@ etc/firmware/venus.b03
 etc/firmware/venus.b04
 etc/firmware/venus.mbn
 etc/firmware/venus.mdt
-lib/libacdbloader.so
 lib/libcnefeatureconfig.so
 lib/libgps.utils.so
 lib/libHDR.so
@@ -61,7 +60,7 @@ vendor/firmware/a330_pm4.fw
 vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd
 vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_PreI2C_NCD_Signed_ORC.ncd
 vendor/firmware/BCM4335B0_002.001.006.0191.0201_ORC.hcd
-vendor/lib/libacdbmapper.so
+vendor/lib/libacdbloader.so
 vendor/lib/libacdbrtac.so
 vendor/lib/libadiertac.so
 vendor/lib/libadreno_utils.so
@@ -240,6 +239,7 @@ vendor/lib/libxml.so
 vendor/lib/pp_proc_plugin.so
 vendor/lib/mediadrm/libwvdrmengine.so
 vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/drm/libdrmprplugin.so
 vendor/lib/egl/eglsubAndroid.so
 vendor/lib/egl/libEGL_adreno.so
 vendor/lib/egl/libGLESv1_CM_adreno.so
