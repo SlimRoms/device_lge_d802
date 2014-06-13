@@ -28,7 +28,7 @@ PRODUCT_NAME := full_d802
 PRODUCT_BRAND := LGE
 PRODUCT_MODEL := LG-D802
 PRODUCT_MANUFACTURER := lge
-PRODUCT_RESTRICT_VENDOR_FILES := true
+PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Inherit from hardware-specific part of the product configuration
 $(call inherit-product, device/lge/d802/device.mk)
