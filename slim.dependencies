@@ -8,5 +8,15 @@
    "repository":  "SlimRoms/kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
    "branch":      "kk4.4"
+ },
+ {
+   "repository":  "SlimRoms/device_qcom_common",
+   "target_path": "device/qcom_common",
+   "branch":      "kk4.4"
+ },
+ {
+   "repository":  "SlimRoms/hardware_qcom_display-caf",
+   "target_path": "hardware/qcom/display-caf",
+   "branch":      "kk4.4"
  }
 ]
