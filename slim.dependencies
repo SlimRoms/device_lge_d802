@@ -2,11 +2,11 @@
  {
    "repository":  "SlimRoms/device_lge_g2-common",
    "target_path": "device/lge/g2-common",
-   "branch":      "kk4.4"
+   "branch":      "lp5.0"
  },
  {
    "repository":  "SlimRoms/kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
-   "branch":      "kk4.4"
+   "branch":      "lp5.0"
  }
 ]
