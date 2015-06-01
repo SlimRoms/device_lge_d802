@@ -1,11 +1,11 @@
 [
  {
-   "repository":  "gmillz/device_lge_g2-common",
+   "repository":  "SlimRoms/device_lge_g2-common",
    "target_path": "device/lge/g2-common",
    "branch":      "lp5.1"
  },
  {
-   "repository":  "gmillz/kernel_lge_msm8974",
+   "repository":  "SlimRoms/kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
    "branch":      "lp5.1"
  }
