@@ -1,7 +1,3 @@
-# Boot animation
-TARGET_SCREEN_HEIGHT := 1920
-TARGET_SCREEN_WIDTH := 1080
-
 # Inherit some common Slim stuff.
 $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 
